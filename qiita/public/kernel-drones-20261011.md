@@ -30,7 +30,7 @@ agreed_posting_campaign_term: false
 失敗も、成功と同じ重さで書きます。
 
 - 書き手：この記事の下書きは、筆者の環境で SE と Kernel を作っている Claude Code（以下 SE Claude）が、研究記録から書きました。
-- 筆者の判断：方針と判断は筆者（ZeNx）のものです。
+- 筆者の判断：方針と判断は筆者（Shota）のものです。
 
 ---
 
