@@ -2,16 +2,18 @@
 title: AIエージェントの指令役をAIにしない：非AIのKernelでCodex Droneを指令・観測・帰還させた記録
 tags:
   - AIエージェント
-  - Codex
+  - codex
   - ClaudeCode
   - マルチエージェント
-  - セキュリティ
+  - Security
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-10-11T14:20:38+09:00'
+id: 3ba3bd60dc53017eda2f
 organization_url_name: null
 slide: false
 ignorePublish: false
+posting_campaign_uuid: null
+agreed_posting_campaign_term: false
 ---
 ## この記事について
 
