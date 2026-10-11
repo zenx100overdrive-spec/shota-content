@@ -1,0 +1,4 @@
+# GitHub Pages (Jekyll): the qiita/ folder is Qiita CLI content, not part of this site.
+# Some Qiita articles contain "{{" in code, which Jekyll would read as Liquid and fail on.
+exclude:
+  - qiita
